@@ -16,3 +16,6 @@ In this folder, I compare different search algorithms on lists.
 
 ### listVsQueue
 This script tests the performance difference between lists and queues.
+
+### learnClasses
+In this folder, I learned how to write classes in python. For example I created a zoo management system with different animals.
