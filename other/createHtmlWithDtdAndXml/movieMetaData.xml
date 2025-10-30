@@ -1,0 +1,28 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?xml-stylesheet type="text/xsl" href="movieMetaData.xsl"?>
+
+<movieMetaData>
+  <movie id="1">
+    <title>Inception</title>
+    <director>Christopher Nolan</director>
+    <genre>Science Fiction</genre>
+    <releaseDate>2010-07-16</releaseDate>
+    <rating>8.8</rating>
+  </movie>
+
+  <movie id="2">
+    <title>Interstellar</title>
+    <director>Christopher Nolan</director>
+    <genre>Adventure / Drama / Sci-Fi</genre>
+    <releaseDate>2014-11-07</releaseDate>
+    <rating>8.6</rating>
+  </movie>
+
+  <movie id="3">
+    <title>Spirited Away</title>
+    <director>Hayao Miyazaki</director>
+    <genre>Animation / Fantasy</genre>
+    <releaseDate>2001-07-20</releaseDate>
+    <rating>8.6</rating>
+  </movie>
+</movieMetaData>

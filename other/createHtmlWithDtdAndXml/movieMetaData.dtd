@@ -1,0 +1,13 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE movieMetaData [
+  <!ELEMENT movieMetaData (movie+)>
+
+  <!ELEMENT movie (title, director, genre, releaseDate, rating)>
+  <!ATTLIST movie id ID #REQUIRED>
+
+  <!ELEMENT title (#PCDATA)>
+  <!ELEMENT director (#PCDATA)>
+  <!ELEMENT genre (#PCDATA)>
+  <!ELEMENT releaseDate (#PCDATA)>
+  <!ELEMENT rating (#PCDATA)>
+]>
