@@ -14,6 +14,7 @@ In this folder, I created a DTD File to check an XML-structure. Also I created t
 ## Python
 ### createOrders
 These are two functions to add an order and one to see the order value. Also I´ve created a test-function to check if orders with value 0 are possible or not.
+
 ### getBiggestDivider
 This script finds the greatest common divider (GCD) of two numbers.
 
