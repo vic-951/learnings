@@ -1,0 +1,17 @@
+{% extends "base.html" %}
+
+{% block content %}
+<h2>Willkommen im Dashboard!</h2>
+<p>Sie sind erfolgreich angemeldet.</p>
+
+<div style="text-align: center;">
+    <h3>Hier ist ein schönes Bild:</h3>
+    <img src="{{ url_for('media_file', filename='computer.jpg') }}" 
+         alt="Schönes Bild" style="max-width: 100%; height: auto; border-radius: 10px;">
+    <p>Fotografiert von Viktor Kosilov</p>
+</div>
+
+<div style="margin-top: 20px;">
+    <a href="{{ url_for('logout') }}">Abmelden</a>
+</div>
+{% endblock %}

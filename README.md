@@ -29,3 +29,6 @@ This script tests the performance difference between lists and queues.
 
 ### searchSomething
 In this folder, I compare different search algorithms on lists.
+
+### webserverWithLogin
+This is a complete web application built with Python Flask that provides user authentication with login and registration functionality, JWT-based security, and a personalized dashboard with custom image display.
