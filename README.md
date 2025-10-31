@@ -8,6 +8,9 @@ In some cases, multiple languages are involved.
 
 # Overview
 ## other
+### calulateFactorialNumber
+this is simple function to calculate a factorial.
+
 ### createHtmlWithDtdAndXml
 In this folder, I created a DTD File to check an XML-structure. Also I created the XML and XSLT-stylesheet to create a static HTML-file with movies.
 
