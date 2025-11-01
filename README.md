@@ -21,6 +21,9 @@ These are two functions to add an order and one to see the order value. Also I´
 ### getBiggestDivider
 This script finds the greatest common divider (GCD) of two numbers.
 
+### haskellInPython
+This is a learning, how to translate a haskell-function into python-code.
+
 ### learnClasses
 In this folder, I learned how to write classes in python. For example I created a zoo management system with different animals.
 
